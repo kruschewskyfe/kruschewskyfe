@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felkrus/)
 
 
-![FelKrus GitHub stats](https://github-readme-stats.vercel.app/api?username=kruschewskyfe&show_icons=true&theme=merko)
+[![FelKrus GitHub stats](https://github-readme-stats.vercel.app/api?username=kruschewskyfe&show_icons=true&theme=merko)](url)
 
 
 ##  Tecnologias que mais utilizo
